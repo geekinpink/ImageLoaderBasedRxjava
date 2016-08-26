@@ -1,0 +1,3 @@
+# ImageLoaderBasedRxjava
+
+基于RxJava的图片加载工具，使用了LruCache和DiskLruCache分别做内存缓存和磁盘缓存。
